@@ -16,7 +16,7 @@ export const Navbar: React.FC = () => {
 
   return (
     <header className="sticky top-0 z-40 bg-[#FAF9F5]/95 backdrop-blur-md border-b border-[#E7E5DC] transition-all">
-      <div className="max-w-6xl mx-auto px-6 h-18 flex items-center justify-between">
+      <div className="mx-auto px-6 h-18 flex items-center justify-between">
         {/* Zone 1: Single text element wordmark */}
         <a
           href="#"
