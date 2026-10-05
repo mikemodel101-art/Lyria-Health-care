@@ -1,0 +1,6 @@
+{
+  "name": "Lyria Health – Waiting List",
+  "description": "UK membership service for remote GP consultations and blood biomarker testing. Join the GDPR-compliant waiting list for priority access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
