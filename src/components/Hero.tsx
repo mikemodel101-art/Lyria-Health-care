@@ -64,7 +64,7 @@ export const Hero: React.FC = () => {
   };
 
   return (
-    <section id="waitlist" className="relative pt-12 pb-20 md:pt-20 md:pb-28 overflow-hidden">
+    <section id="waitlist" className="relative pt-12 pb-20 md:pt-20 md:pb-28">
       {/* Background aesthetic touches */}
       <div className="absolute inset-0 bg-radial from-[#F3F1E7]/70 via-[#FAF9F5] to-[#FAF9F5] pointer-events-none" />
 
